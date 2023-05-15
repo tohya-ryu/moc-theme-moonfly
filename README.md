@@ -9,4 +9,4 @@ installation
 ------------
 requires terminal with moonfly colorscheme and opaque background
 
-place `./moonfly` into `~/.moc/themes/` to install. edit `~/.moc/config` and define `Theme = Moonfly` to use.
+place `./moonfly` into `~/.moc/themes/` to install. edit `~/.moc/config` and define `Theme = moonfly` to use.

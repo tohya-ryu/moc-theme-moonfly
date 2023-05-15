@@ -1,0 +1,39 @@
+# color theme for MOC based on moonfly
+#
+# https://github.com/bluz71/vim-moonfly-colors
+
+background           = default   default   normal     
+frame                = blue      default 
+window_title         = default   default   bold
+directory            = white     default   bold
+selected_directory   = default   black     bold
+playlist             = green     default   bold
+selected_playlist    = default   black     bold
+file                 = blue      default
+selected_file        = default   black     dim
+marked_file          = yellow    default   bold
+marked_selected_file = yellow    black     bold
+info                 = default   default   bold
+selected_info        = default   black     bold
+marked_info          = yellow    default   bold
+marked_selected_info = yellow    black     bold
+status               = default   default   dim
+title                = yellow    default   bold
+state                = default   default   dim
+current_time         = default   default   bold
+time_left            = default   default   bold
+total_time           = default   default   bold
+time_total_frames    = default   default
+sound_parameters     = default   default   bold
+legend               = default   default
+disabled             = black     default   bold
+enabled              = default   default   bold
+empty_mixer_bar      = default   default       
+filled_mixer_bar     = default   black
+empty_time_bar       = default   black
+filled_time_bar      = green     magenta     
+entry                = default   default
+entry_title          = black     cyan
+error                = red       default    bold
+message              = green     default    bold
+plist_time           = default   default
